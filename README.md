@@ -1,6 +1,6 @@
 # NodesAndWeightsOfGaussianQuadrature
-=====================
 Calculates the nodes and weights of the Gaussian quadrature.
+***
 
 ## Purpose of use
 1. Computer Science course Assignment
