@@ -1,5 +1,5 @@
 # NodesAndWeightsOfGaussianQuadrature
-=================================
+=====================
 Calculates the nodes and weights of the Gaussian quadrature.
 
 ## Purpose of use
