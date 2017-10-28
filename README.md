@@ -1,4 +1,4 @@
-# NodesAndWeightsOfGaussianQuadrature
+# Calculator of Nodes And Weights Of Gaussian Quadrature
 Calculates the nodes and weights of the Gaussian quadrature.
 ***
 
